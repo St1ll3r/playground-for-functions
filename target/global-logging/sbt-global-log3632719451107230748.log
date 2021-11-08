@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(80a1da3c-4344-4475-be4f-7d0a66f561de), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\jorge\Desktop\Scala\playground-for-functions\target\scala-2.13\classes ...[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala:20:15: value isDigit is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m    try (num1.isDigit && num2.isDigit)[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala:20:31: value isDigit is not a member of String[0m
+[0m[[0m[31merror[0m] [0m[0m    try (num1.isDigit && num2.isDigit)[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 0 s, completed 08-Nov-2021 23:22:58[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
