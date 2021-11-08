@@ -7,15 +7,34 @@ object Main extends App {
 
   // Menu and Functionality
 
-  def getUserMenuInput(): Int = {
-    scala.io.StdIn.readLine("Welcome to my Scala Playground. This is where I've done my first few functions to get started with Scala.\nFunctions:\n1 - Return what you've just typed\n").toInt
+  def getUserMenuInput(): Unit = {
+    try {
+          var answer = scala.io.StdIn.readInt()
+          tests(answer)
+        } catch {
+          case _: NumberFormatException =>
+            println("That's not a number, try again")
+            getUserMenuInput()
+        }
+  }
+
+  def intro() = {
+    println("Welcome to my Scala Playground. This is where I've done my first few functions to get started with Scala.\nFunctions:\n1 - Return what you've just typed\n")
   }
 
   def tests(option : Int): Unit = option match {
-      case 1 => println(returnGivenText())
-      case _ => ("Please type a number from 1 to X")
-      tests(getUserMenuInput())
+      case 1 => { 
+        println(returnGivenText()) 
+        init() 
+      }
+      case _ => println("Please type a number from 1 to X")
+      init()
   }
-  
-  tests(getUserMenuInput())
+
+  def init() = {
+    intro()
+    getUserMenuInput()
+  }
+
+  init()
 }
