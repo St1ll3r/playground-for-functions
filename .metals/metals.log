@@ -125,3 +125,99 @@ WARNING: Unmatched cancel notification for request id 53
 [0m2021.11.08 21:59:23 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
 Nov 08, 2021 9:59:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+[0m2021.11.08 22:06:48 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:07:03 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:07:12 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:09:21 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:09:32 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:09:41 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:10:29 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:11:12 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:11:31 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:12:03 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:12:08 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:15:15 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:16:26 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:17:41 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:18:11 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:18:27 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:18:38 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:18:47 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:19:03 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:19:40 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:19:54 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:20:04 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:20:56 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:21:37 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:22:02 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:22:10 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:23:38 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:23:54 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+Nov 08, 2021 10:41:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 08, 2021 10:41:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 08, 2021 10:41:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 08, 2021 10:41:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 08, 2021 10:41:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 08, 2021 10:41:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 08, 2021 10:41:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 08, 2021 10:41:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 08, 2021 10:41:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 08, 2021 10:41:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 08, 2021 10:41:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.11.08 22:48:33 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:48:37 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:48:45 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:48:53 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:49:21 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:50:05 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:50:16 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:50:52 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:51:03 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:51:12 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:51:18 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+Nov 08, 2021 10:52:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4325
+[0m2021.11.08 22:52:30 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:52:36 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:52:52 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:52:57 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:54:25 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:54:37 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 22:54:54 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 23:18:45 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 23:19:02 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 23:19:09 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 23:19:38 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 23:19:39 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 23:19:50 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 23:20:13 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 23:20:47 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 23:21:19 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 23:21:32 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 23:22:37 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 23:22:47 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 23:22:47 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 23:22:47 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 23:22:49 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 23:36:23 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 23:36:37 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.08 23:37:33 INFO  shutting down Metals[0m
+[0m2021.11.09 17:36:45 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\jorge\Desktop\Scala\playground-for-functions' for client Visual Studio Code 1.62.0.[0m
+[0m2021.11.09 17:36:46 INFO  time: initialize in 0.49s[0m
+[0m2021.11.09 17:36:46 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.09 17:36:47 WARN  no build target for: C:\Users\jorge\Desktop\Scala\playground-for-functions\src\main\scala\Main.scala[0m
+[0m2021.11.09 17:36:47 INFO  skipping build import with status 'Requested'[0m
+[0m2021.11.09 17:36:52 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.11.09 17:36:55 INFO  time: code lens generation in 7.67s[0m
+[0m2021.11.09 17:48:31 INFO  shutting down Metals[0m
